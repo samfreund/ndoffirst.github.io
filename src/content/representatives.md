@@ -48,7 +48,7 @@ Bio coming soon!
 
 ## Sam - FRC 8847 - ADHD, NLD - They/Them
 
-Bio coming soon!
+Hi! I'm Sam, a Computer Science major and alum of FRC Team 8847. I'm also a developer for PhotonVision and helped build this website. In my free time, I enjoy reading, listening to musicals, skiing, and working on personal coding projects. I've been a NDoF Representative since April 2024.
 
 ## Seth - FRC 3324 - ADHD, Tourette's - He/Him
 
