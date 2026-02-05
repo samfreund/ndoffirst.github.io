@@ -1,0 +1,23 @@
+@startuml layout
+
+title NDoF Website Layout
+
+' Top Level Navigation
+rectangle "Community" as community
+rectangle "Blog" as blog
+rectangle "Resources and Info" as resources
+
+' Community Subsections
+rectangle "Administrators" as admins
+rectangle "Partner Teams" as partners
+rectangle "Representatives" as reps
+rectangle "Retirees" as retirees
+rectangle "Advisors" as advisors
+
+community -down-> admins
+community -down-> partners
+community -down-> reps
+community -down-> retirees
+community -down-> advisors
+
+@enduml
