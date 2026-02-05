@@ -29,6 +29,7 @@ Every blog post **must** start with YAML frontmatter enclosed in `---` delimiter
 title: "Your Blog Post Title"
 date: "YYYY-MM-DD"
 description: "A short description that appears in the blog list (one sentence or two)."
+author: "Author Name"
 ---
 
 # Your Blog Post Title
@@ -43,7 +44,7 @@ Your markdown content starts here...
 | `title` | String | Yes | The title of your blog post. Use quotes. |
 | `date` | String (YYYY-MM-DD) | Yes | Publication date in ISO format (e.g., "2024-02-05"). |
 | `description` | String | Yes | A brief description shown in the blog list. Keep it concise (one or two sentences). |
-
+| `author` | String | Yes | The name of the author of the blog post. Use quotes. |  
 ## Example Blog Post
 
 ```markdown
@@ -51,6 +52,7 @@ Your markdown content starts here...
 title: "Getting Started with Neurodiversity Advocacy"
 date: "2024-02-10"
 description: "Learn the fundamentals of advocating for neurodivergent individuals in FIRST robotics."
+author: "Author Name"
 ---
 
 # Getting Started with Neurodiversity Advocacy

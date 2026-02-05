@@ -11,6 +11,7 @@ const slug = route.params.slug as string;
 const htmlContent = ref('');
 const title = ref('');
 const date = ref('');
+const author = ref('');
 const loading = ref(true);
 const error = ref(false);
 
@@ -34,6 +35,7 @@ onMounted(async () => {
 
     title.value = post.title;
     date.value = post.date;
+    author.value = post.author;
     htmlContent.value = await marked(post.body);
   } catch (err) {
     console.error('Error loading blog post:', err);
@@ -63,6 +65,7 @@ onMounted(async () => {
         <header class="mb-8">
           <h1 class="text-4xl font-bold mb-4" style="color: var(--color-brand)">{{ title }}</h1>
           <time class="text-zinc-400">{{ formattedDate }}</time>
+          <p class="text-zinc-400 text-sm">By {{ author }}</p>
         </header>
 
         <!-- eslint-disable-next-line vue/no-v-html -->

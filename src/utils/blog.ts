@@ -2,6 +2,7 @@ export interface BlogMetadata {
   title: string;
   date: string;
   description: string;
+  author: string;
 }
 
 export interface BlogPost extends BlogMetadata {
@@ -27,6 +28,7 @@ export function parseFrontmatter(content: string): {
     title: '',
     date: '',
     description: '',
+    author: ''
   };
 
   // Simple YAML parser for our specific fields
@@ -46,6 +48,8 @@ export function parseFrontmatter(content: string): {
       metadata.date = value;
     } else if (key === 'description') {
       metadata.description = value;
+    } else if (key === 'author') {
+      metadata.author = value;
     }
   }
 
