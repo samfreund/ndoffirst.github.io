@@ -1,0 +1,36 @@
+{
+  "name": "samfreund-website",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .ts,.vue",
+    "linkcheck": "linkinator dist --recurse --verbosity error --skip 'https?://(www\\.)?ndoffirst\\.org.*'"
+  },
+  "devDependencies": {
+    "@toolwind/anchors": "^1.0.10",
+    "@eslint/js": "^9.19.0",
+    "@typescript-eslint/eslint-plugin": "^8.22.0",
+    "@typescript-eslint/parser": "^8.22.0",
+    "eslint": "^9.19.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-vue": "^9.23.0",
+    "linkinator": "^6.1.1",
+    "prettier": "^3.5.3",
+    "typescript": "~5.7.2",
+    "vite": "^7.1.2",
+    "vite-ssg": "^28.2.2",
+    "vue-eslint-parser": "^9.4.3"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.12",
+    "@vitejs/plugin-vue": "^6.0.2",
+    "marked": "^17.0.1",
+    "tailwindcss": "^4.1.12",
+    "vue": "^3.5.25",
+    "vue-router": "^4.0.1"
+  }
+}
