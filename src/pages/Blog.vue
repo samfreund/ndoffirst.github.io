@@ -29,8 +29,8 @@ onMounted(async () => {
 <template>
   <div class="min-h-screen bg-zinc-950 text-white">
     <div class="max-w-4xl mx-auto px-6 md:px-8 py-12 md:py-16">
-      <h1 class="text-4xl md:text-5xl font-bold mb-4 text-blue-400">Blog</h1>
-      <p class="text-zinc-400 mb-12">Insights and updates from the Neurodivergent FIRST community.</p>
+      <h1 class="text-4xl md:text-5xl font-bold mb-4" style="color: var(--color-brand)">Blog</h1>
+      <p class="text-zinc-400 mb-12">Insights and updates from the NeuroDivergent of FIRST community.</p>
 
       <div v-if="loading" class="text-center">
         <p>Loading blog posts...</p>
@@ -48,13 +48,13 @@ onMounted(async () => {
         <article
           v-for="post in posts"
           :key="post.slug"
-          class="border-l-4 border-brand pl-6 hover:border-blue-400 transition-colors duration-200"
+          class="border-l-4 border-primary pl-6"
         >
           <router-link
             :to="`/blog/${post.slug}`"
             class="block group"
           >
-            <h2 class="text-2xl font-bold mb-2 text-white group-hover:text-blue-400 transition-colors duration-200">
+            <h2 class="text-2xl font-bold mb-2 text-white group-hover:text-purple-400 transition-colors duration-200">
               {{ post.title }}
             </h2>
           </router-link>
@@ -69,7 +69,7 @@ onMounted(async () => {
 
           <router-link
             :to="`/blog/${post.slug}`"
-            class="inline-block text-brand hover:text-blue-400 font-semibold transition-colors duration-200"
+            class="inline-block text-primary hover:text-purple-400 font-semibold transition-colors duration-200"
           >
             Read More →
           </router-link>

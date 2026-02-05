@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue';
 import { marked } from 'marked';
+import '../css/markdown.css';
 
 const props = defineProps<{
   contentPath: string;
@@ -30,61 +31,3 @@ onMounted(async () => {
     </div>
   </div>
 </template>
-
-<style scoped>
-.markdown-content {
-  line-height: 1.75;
-}
-
-.markdown-content :deep(h1) {
-  font-size: 2.5rem;
-  font-weight: bold;
-  margin-bottom: 2rem;
-  color: #60a5fa;
-}
-
-@media (min-width: 768px) {
-  .markdown-content :deep(h1) {
-    font-size: 3rem;
-  }
-}
-
-.markdown-content :deep(h2) {
-  font-size: 1.875rem;
-  font-weight: bold;
-  margin-top: 2.5rem;
-  margin-bottom: 1.5rem;
-}
-
-.markdown-content :deep(h3) {
-  font-size: 1.5rem;
-  font-weight: bold;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-}
-
-.markdown-content :deep(p) {
-  margin-bottom: 1rem;
-  color: #d4d4d8;
-  line-height: 1.75;
-}
-
-.markdown-content :deep(ul) {
-  list-style-type: disc;
-  margin-left: 1.5rem;
-  margin-bottom: 1.5rem;
-}
-
-.markdown-content :deep(ul li) {
-  margin-bottom: 0.5rem;
-}
-
-.markdown-content :deep(li) {
-  color: #d4d4d8;
-}
-
-.markdown-content :deep(strong) {
-  font-weight: 600;
-  color: white;
-}
-</style>
