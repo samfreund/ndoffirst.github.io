@@ -14,6 +14,11 @@ const socialLinks = [
     name: 'Instagram',
     url: 'https://www.instagram.com/ndoffirst/',
     icon: 'fa-brands fa-instagram',
+  },
+  {
+    name: 'Email',
+    url: 'mailto:ndoffirst@gmail.com',
+    icon: 'fa-solid fa-envelope',
   }
 ];
 </script>
