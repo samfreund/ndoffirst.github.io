@@ -26,7 +26,7 @@ const socialLinks = [
 <template>
     <footer id="footer" class="py-12 px-8 bg-zinc-800 border-t border-zinc-700">
       <div
-        class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-8"
+        class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 items-center gap-8"
       >
         <div class="flex items-center gap-4">
           <img
@@ -36,7 +36,7 @@ const socialLinks = [
           />
           <span class="font-semibold text-lg">NDoF</span>
         </div>
-        <div class="flex gap-6">
+        <div class="flex gap-6 justify-center">
           <a
             v-for="link in socialLinks"
             :key="link.url"
