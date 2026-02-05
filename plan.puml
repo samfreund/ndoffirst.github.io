@@ -14,10 +14,19 @@ rectangle "Representatives" as reps
 rectangle "Retirees" as retirees
 rectangle "Advisors" as advisors
 
+' Mock Blog Posts
+circle "Blog Post 1" as blog1
+circle "Blog Post 2" as blog2
+circle "Blog Post 3" as blog3
+
 community -down-> admins
 community -down-> partners
 community -down-> reps
 community -down-> retirees
 community -down-> advisors
+
+blog -down-> blog1
+blog -down-> blog2
+blog -down-> blog3
 
 @enduml
