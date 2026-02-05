@@ -28,7 +28,7 @@ const socialLinks = [
       <div
         class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 items-center gap-8"
       >
-        <div class="flex items-center gap-4">
+        <div class="flex items-center gap-4 justify-center md:justify-start">
           <img
             src="/images/logo.png"
             class="w-12 h-12 hover:scale-110 transition-transform duration-300"
