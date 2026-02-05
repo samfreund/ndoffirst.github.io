@@ -1,4 +1,5 @@
-# Partner Teams 
+# Partner Teams
+
 Partner Teams are FIRST teams that work with us in our mission. Partners represent us online and at competitions, distribute promotional material, and educate students. Partners operate on three tiers of involvement:
 
 **Bronze Tier Partners** represent us and promote us online and includes key marketing points on their website or within their web presence.
