@@ -13,6 +13,7 @@ This guide explains how to add new blog posts to the NDoF website.
 ## File Naming
 
 Blog filenames should:
+
 - Use lowercase letters, numbers, and hyphens
 - Be descriptive and SEO-friendly
 - End with `.md` extension
@@ -39,12 +40,13 @@ Your markdown content starts here...
 
 ### Frontmatter Fields
 
-| Field | Type | Required | Description |
-|-------|------|----------|-------------|
-| `title` | String | Yes | The title of your blog post. Use quotes. |
-| `date` | String (YYYY-MM-DD) | Yes | Publication date in ISO format (e.g., "2024-02-05"). |
-| `description` | String | Yes | A brief description shown in the blog list. Keep it concise (one or two sentences). |
-| `author` | String | Yes | The name of the author of the blog post. Use quotes. |  
+| Field         | Type                | Required | Description                                                                         |
+| ------------- | ------------------- | -------- | ----------------------------------------------------------------------------------- |
+| `title`       | String              | Yes      | The title of your blog post. Use quotes.                                            |
+| `date`        | String (YYYY-MM-DD) | Yes      | Publication date in ISO format (e.g., "2024-02-05").                                |
+| `description` | String              | Yes      | A brief description shown in the blog list. Keep it concise (one or two sentences). |
+| `author`      | String              | Yes      | The name of the author of the blog post. Use quotes.                                |
+
 ## Example Blog Post
 
 ```markdown
@@ -73,7 +75,7 @@ Wrap up your post with a concluding thought or call to action.
 
 ---
 
-*Got questions? Feel free to reach out on Discord!*
+_Got questions? Feel free to reach out on Discord!_
 ```
 
 ## Markdown Formatting
@@ -81,13 +83,14 @@ Wrap up your post with a concluding thought or call to action.
 You can use standard markdown syntax:
 
 - **Bold text**: `**bold**`
-- *Italic text*: `*italic*`
+- _Italic text_: `*italic*`
 - [Links](https://example.com): `[Link text](https://example.com)`
 - Lists: Use `-` for unordered or numbers for ordered`
 
 ## Date Formatting
 
 Dates must be in **YYYY-MM-DD format**:
+
 - Correct: `"2024-02-15"`
 - Incorrect: `"02/15/2024"` or `"February 15, 2024"`
 
