@@ -55,3 +55,12 @@
     font-size: 3rem;
   }
 }
+.markdown-content blockquote {
+  border-left: 4px solid var(--color-primary);
+  margin-left: 0;
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+  color: var(--color-text);
+  font-style: italic;
+  opacity: 0.9;
+}
