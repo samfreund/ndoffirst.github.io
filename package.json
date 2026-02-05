@@ -8,6 +8,8 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "lint": "eslint . --ext .ts,.vue",
+    "format": "prettier --write \"src/content/**/*.md\"",
+    "CI": "pnpm run lint && pnpm run build && pnpm run linkcheck && prettier --check \"src/content/**/*.md\"",
     "linkcheck": "linkinator dist --recurse --verbosity error --skip 'https?://(www\\.)?ndoffirst\\.org.*'"
   },
   "devDependencies": {
