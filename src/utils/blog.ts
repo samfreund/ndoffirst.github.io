@@ -62,12 +62,16 @@ export async function getAllBlogPosts(): Promise<BlogPost[]> {
     { eager: true, query: '?raw', import: 'default' }
   );
 
+
+
   const posts: BlogPost[] = [];
 
   for (const [path, content] of Object.entries(blogModules)) {
+
     // Extract slug from path like "../content/blog/welcome-to-ndof.md"
     const slug = path.split('/').pop()?.replace('.md', '');
     if (!slug) continue;
+    if(slug == 'README') continue;
 
     try {
       const { metadata } = parseFrontmatter(content);
