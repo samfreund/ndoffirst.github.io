@@ -8,4 +8,4 @@ Bio coming soon!
 
 ## Eva True - FRC 10506 Mentor - Autism - They/Them
 
-Bio coming soon!
+Hey! I'm Eva, the founder of NDoF. I served as an admin for two years, and currently serve as an advisor. I'm the outreach/awards mentor on FRC Team 10506, and volunteer as a game announcer/emcee in FTC and FRC. Outside of that, I currently work as a construction engineer in Arizona. In my free time, I enjoy writing, hiking, watching college football, and reading.
