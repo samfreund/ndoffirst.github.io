@@ -1,6 +1,6 @@
 # Representatives
 
-Representatives are the primary legislative body of Neurodivergent of FIRST. They brainstorm ideas, front organization projects, and represent us at FIRST events. Any FIRST member who is neurodivergent can apply for Representative at any time here.
+Representatives are the primary legislative body of Neurodivergent of FIRST. They brainstorm ideas, front organization projects, and represent us at FIRST events. Any FIRST member who is neurodivergent can apply for Representative at any time [here](https://forms.gle/jDYbw2BZ7jhb9mrZA).
 
 ## Addison - FTC 3540- ADHD- She/Her
 

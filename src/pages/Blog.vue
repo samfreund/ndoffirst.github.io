@@ -30,7 +30,7 @@ onMounted(async () => {
   <div class="min-h-screen bg-zinc-950 text-white">
     <div class="max-w-4xl mx-auto px-6 md:px-8 py-12 md:py-16">
       <h1 class="text-4xl md:text-5xl font-bold mb-4" style="color: var(--color-brand)">Blog</h1>
-      <p class="text-zinc-400 mb-12">Insights and updates from the NeuroDivergent of FIRST community.</p>
+      <p class="text-zinc-400 mb-12">Insights and updates from the Neurodivergent of FIRST community.</p>
 
       <div v-if="loading" class="text-center">
         <p>Loading blog posts...</p>

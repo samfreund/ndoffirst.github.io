@@ -44,7 +44,7 @@ const toggleDropdown = (label: string) => {
         <img src="/images/logo.png" alt="NDoF Logo" class="w-full h-full object-contain" />
       </div>
       <span class="font-bold text-xl hidden sm:block text-white">
-        NeuroDivergent of FIRST
+        Neurodivergent of FIRST
       </span>
     </router-link>
 
