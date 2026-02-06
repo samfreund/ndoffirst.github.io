@@ -4,7 +4,7 @@
 
 ## What is neurodivergence?
 
-Neurodivergence is the differentiating in human cognition, social awareness, behaviors, and functions. Examples include Autism Spectrum Disorder, ADHD, OCD, and many others. It is important to note that mental health and psychological disorders, such as depression or borderline personality disorder, are not considered neurodivergent disorders. Neurodivergence is a substantial difference in brain functionality and is something that one is often born with, while psychological disorders are often developmental. All neurodivergent disorders are spectrums, and no neurodivergent experience is exactly like another.
+Neurodivergence is the differentiation that occurs in human cognition, social awareness, behaviors, and functions. Examples include, but are not limited to, Autism Spectrum Disorder, ADHD, and OCD. It is important to note that mental health and psychological disorders, such as depression or borderline personality disorder, are not considered neurodivergent disorders. Neurodivergence is a substantial difference in brain functionality and is something that one is often born with, while psychological disorders are often developmental. All neurodivergent disorders are spectrums, and no neurodivergent experience is exactly like another.
 ​
 NOTE: Not all symptoms are listed, these are just common examples. All experiences with these disorders are different and not everyone experiences every symptom listed.
 ​
@@ -16,7 +16,7 @@ Autism Spectrum Disorder(ASD) is a disability that affects one's development and
 
 ### What is ADHD?
 
-Attention Deficit Hyperactivity Disorder(ADHD) is a learning disability that affects one's attention span, energy management, and impulse control. Symptoms often include short attention span, lack of impulse control and acting without thinking, hyperactivity, forgetfulness, focus intensely on one specific topic or task, being unable to resist temptation, has trouble taking turns, and has difficulty in getting along with others.
+Attention Deficit Hyperactivity Disorder(ADHD) is a condition that can affect one's attention span, energy management, and impulse control. Symptoms often include short attention span, lack of impulse control and acting without thinking, hyperactivity, forgetfulness, focus intensely on one specific topic or task, being unable to resist temptation, has trouble taking turns, and has difficulty in getting along with others.
 ​
 
 ### What is OCD?

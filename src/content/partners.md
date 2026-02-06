@@ -10,11 +10,11 @@ Partner Teams are FIRST teams that work with us in our mission. Partners represe
 
 Interested Teams can apply [here](https://forms.gle/FbY53eHkXnetggnT9) after reviewing our Partner Team Code of Conduct [here](https://docs.google.com/document/d/1xWk46fI8z8_ijh7wGt5_YX-BwTmLeEU1Zz8VwiAl2Kg/edit?usp=sharing). Our guidelines for being an NDoF Partner Team of any tier is as follows:
 
-- Use our marketing materials and marketing points when advocating for NDoF
+- Use our marketing materials and marketing points when advocating for NDoF.
 
   - These materials have been specially designed based on the feedback of other partner teams and staff and are designed to make an inclusive experience for everyone. If you have any feedback on the marketing materials, please let an admin know.
 
-  - Note: Please do not modify marketing materials without the explicit permission of the NDoF Admin Team
+  - Note: Please do not modify marketing materials without the explicit permission of the NDoF Admin Team.
 
 - Help us out where you can.
 

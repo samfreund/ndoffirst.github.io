@@ -1,6 +1,6 @@
 # Student Administrators
 
-Student Administrators or Admin are the primary administrative body of Neurodivergent of FIRST. They make all executive decisions, lead staff and partners, and front all outreach efforts. Join our discord server to keep up with available admin spots and when applications go live.
+Student Administrators or Admin are the primary administrative body of Neurodivergent of FIRST. They make all executive decisions, lead staff and partners, and front all outreach efforts. Join our Discord server to keep up with available admin spots and when applications go live.
 
 ## Brody - FRC 2977 - Autism, ADHD - He/They
 
