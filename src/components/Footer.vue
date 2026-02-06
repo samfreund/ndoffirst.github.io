@@ -19,6 +19,11 @@ const socialLinks = [
     name: 'Email',
     url: 'mailto:ndoffirst@gmail.com',
     icon: 'fa-solid fa-envelope',
+  },
+  {
+    name: 'HackClub Bank',
+    url: 'https://hcb.hackclub.com/ndof/',
+    icon: 'fa-solid fa-university',
   }
 ];
 </script>
@@ -48,7 +53,7 @@ const socialLinks = [
           </a>
         </div>
         <p class="text-sm text-zinc-400">
-          &copy;{{ new Date().getFullYear() }} NeuroDivergent of FIRST. All rights
+          &copy;{{ new Date().getFullYear() }} Neurodivergent of FIRST. All rights
           reserved.
         </p>
       </div>
