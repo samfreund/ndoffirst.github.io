@@ -2,7 +2,7 @@
 title: "General Build Season Advice"
 date: "2020-01-03"
 description: "Tips and tricks for getting through build season, and staying sane."
-author: "Zach True"
+author: "Eve True"
 ---
 
 The time has come once again, and the eve of kickoff is upon us. We're all excited to see the game reveal and devise our strategies to win competitions. However, with build comes the trials and tribulations of the season. This post is intended to convey some helpful advice to make your season more comfortable and enjoyable.

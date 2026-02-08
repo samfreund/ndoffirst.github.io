@@ -1,7 +1,7 @@
 ---
 title: "Autism Acceptance Month"
 date: "2020-04-28"
-author: "Zach True"
+author: "Eve True"
 ---
 
 April, as many have known it, is "Autism Awareness Month". Over the course of the month, people proudly flock to social media, donate to Autism Speaks and other organizations, and sport the color blue in an outpour of questionable support. It may seem so virtuous and positive that nobody dares ask what the festivities really imply.

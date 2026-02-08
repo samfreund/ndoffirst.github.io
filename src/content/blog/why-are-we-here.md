@@ -2,7 +2,7 @@
 title: "Why Are We Here?"
 date: "2019-09-29"
 description: "The mission and purpose of NDoF."
-author: "Zach True"
+author: "Eve True"
 ---
 
 From the very beginning, the mission statement of Neurodivergent of FIRST has been “to raise educated awareness of neurodivergent people in the FIRST community”. Way back in the summer of 2018, I started to to create this organization but stopped myself, wondering “How much of an issue could this be? Is an organization really necessary?”. I was so convinced at the time that the issue was almost nonexistent, or at least it was felt by a very small minority. Throughout the next year, between everything I had seen and the people I had connected with, there was no doubt that this was something worth creating.
