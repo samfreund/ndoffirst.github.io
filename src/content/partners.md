@@ -28,24 +28,25 @@ Interested Teams can apply [here](https://forms.gle/FbY53eHkXnetggnT9) after rev
 
 ### Gold
 
-FTC 11770 - Curiosity- Gold
-FRC 2977 - Sir Lancer Bots - Gold
+FTC 11770 - Curiosity
+FRC 2977 - Sir Lancer Bots
 
 ### Silver
 
-FTC 16008 - Armored Artemises - Silver
-FRC 111 & 112 - WildStang & Plus One - Silver
-FRC 5123 - Mechadogs - Silver
-FRC 6637 - BetaWolves - Silver
+FTC 16008 - Armored Artemises
+FRC 111 & 112 - WildStang & Plus One
+FRC 2486 FireBears
+FRC 5123 - Mechadogs
+FRC 6637 - BetaWolves
 
 ### Bronze
 
-FLL 57674 - Bronze
-FRC 245 - Adambots - Bronze
-FTC 3540 - Random Nuts - Bronze
+FLL 57674
+FRC 245 - Adambots
+FTC 3540 - Random Nuts
 FRC 4039 - MakeShift Robotics
-FRC 4201 - The Vitruvian Bots - Bronze
-FRC 5171 - Deus Ex Machina - Bronze
-FRC 5587 - Titan Robotics - Bronze
-FRC 7466 - Cymurghs - Bronze
-FRC 8177 - Vector - Bronze
+FRC 4201 - The Vitruvian Bots
+FRC 5171 - Deus Ex Machina
+FRC 5587 - Titan Robotics
+FRC 7466 - Cymurghs
+FRC 8177 - Vector
